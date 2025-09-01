@@ -7,8 +7,8 @@ description: "Laporan Kerja"
 # remote_theme: pages-themes/minimal@v0.2.0      # Clean, sidebar layout
 # remote_theme: pages-themes/architect@v0.2.0    # Bold header design
 # remote_theme: pages-themes/cayman@v0.2.0       # Gradient header
-# remote_theme: pages-themes/dinky@v0.2.0        # Compact design
-remote_theme: pages-themes/hacker@v0.2.0       # Terminal/green theme
+remote_theme: pages-themes/dinky@v0.2.0        # Compact design
+# remote_theme: pages-themes/hacker@v0.2.0       # Terminal/green theme
 # remote_theme: pages-themes/leap-day@v0.2.0     # Modern with sidebar
 # remote_theme: pages-themes/merlot@v0.2.0       # Wine-colored theme
 # remote_theme: pages-themes/midnight@v0.2.0     # Dark theme
