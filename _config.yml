@@ -18,9 +18,9 @@ description: "Laporan Kerja"
 # remote_theme: pages-themes/time-machine@v0.2.0   # Retro sci-fi
 # remote_theme: just-the-docs/just-the-docs        # Excellent for documentation
 # remote_theme: squidfunk/mkdocs-material          # Material Design inspired
-remote_theme: alshedivat/al-folio                # Academic/research theme
+# remote_theme: alshedivat/al-folio                # Academic/research theme
 # remote_theme: mmistakes/minimal-mistakes         # Portfolio/blog theme
-# remote_theme: jekyll/minima                      # Simple, fast blog theme
+remote_theme: jekyll/minima                      # Simple, fast blog theme
 
 plugins:
   - jekyll-remote-theme
