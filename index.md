@@ -47,3 +47,14 @@ Halaman ini akan menjelaskan ringkasan langkah tahap demi tahap untuk membuat la
   - Perhatikan selalu kategori kegiatan agar tepat dengan pekerjaan yang dilakukan.
   - Jangan lupa juga untuk mengisi isi-isian waktu mulai dan akhir.
   - Jangan lupa mengeklik tombol simpan data.
+
+## Contoh Tampilan 
+
+  - Menu LKMD
+
+  ![LKMD01](img/LKMD01.png)
+
+  - Print out (jika dibutuhkan)
+    
+  ![LKMD02](img/LKMD02.png)
+    
