@@ -39,6 +39,9 @@ Selamat datang di halaman Laporan Kerja Mingguan Dosen. Halaman ini akan menjela
     ```
     Perhatikan bahwa pada bagian yang menandakan sumber gambar (source/src image) kita isi dengan link pada gambar yang ada di repo di atas + '/preview' agar gambar bisa ditampilkan pada rekap LKMD di BIG.
 
+    * Lokasi URL gambar di repo: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK`
+    * Link gambar yang kita masukkan di Detail Kegiatan isian LKMD: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK/preview`
+
 ## Save
   - Jangan lupa untuk selalu melakukan saving setiap kali melakukan perubahan detail isian LKMD.
   - Perhatikan selalu kategori kegiatan agar tepat dengan pekerjaan yang dilakukan.
