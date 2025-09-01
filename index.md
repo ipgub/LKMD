@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: LKMD BIG 2.0
 ---
 
 # LKMD BIG 2.0
 {: .no_toc .text-delta }
 
-Selamat datang di halaman Laporan Kerja Mingguan Dosen. Halaman ini akan menjelaskan ringkasan langkah tahap demi tahap untuk membuat laporan LKMD berbasis web pada BIG 2.0 dengan fitur dokumentasi visual (gambar/screenshot). 
+Halaman ini akan menjelaskan ringkasan langkah tahap demi tahap untuk membuat laporan LKMD berbasis web pada BIG 2.0 dengan fitur dokumentasi visual (gambar/screenshot). 
 
 ## Daftar Isi
 {: .no_toc .text-delta }
