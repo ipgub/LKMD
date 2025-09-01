@@ -9,7 +9,7 @@ description: "Laporan Kerja"
 # remote_theme: pages-themes/cayman@v0.2.0       # Gradient header
 # remote_theme: pages-themes/dinky@v0.2.0        # Compact design
 # remote_theme: pages-themes/hacker@v0.2.0       # Terminal/green theme
-remote_theme: pages-themes/leap-day@v0.2.0     # Modern with sidebar
+# remote_theme: pages-themes/leap-day@v0.2.0     # Modern with sidebar
 # remote_theme: pages-themes/merlot@v0.2.0       # Wine-colored theme
 # remote_theme: pages-themes/midnight@v0.2.0     # Dark theme
 # remote_theme: pages-themes/modernist@v0.2.0    # Clean, modern
@@ -18,7 +18,7 @@ remote_theme: pages-themes/leap-day@v0.2.0     # Modern with sidebar
 # remote_theme: pages-themes/time-machine@v0.2.0   # Retro sci-fi
 # remote_theme: just-the-docs/just-the-docs        # Excellent for documentation
 # remote_theme: squidfunk/mkdocs-material          # Material Design inspired
-# remote_theme: alshedivat/al-folio                # Academic/research theme
+remote_theme: alshedivat/al-folio                # Academic/research theme
 # remote_theme: mmistakes/minimal-mistakes         # Portfolio/blog theme
 # remote_theme: jekyll/minima                      # Simple, fast blog theme
 
