@@ -42,7 +42,7 @@ Selamat datang di halaman Laporan Kerja Mingguan Dosen. Halaman ini akan menjela
     * Lokasi URL gambar di repo: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK`
     * Link gambar yang kita masukkan di Detail Kegiatan isian LKMD: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK/preview`
 
-## Save
+## Menyimpan
   - Jangan lupa untuk selalu melakukan saving setiap kali melakukan perubahan detail isian LKMD.
   - Perhatikan selalu kategori kegiatan agar tepat dengan pekerjaan yang dilakukan.
   - Jangan lupa juga untuk mengisi isi-isian waktu mulai dan akhir.
