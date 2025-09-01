@@ -18,6 +18,7 @@ Selamat datang di halaman Laporan Kerja Mingguan Dosen. Halaman ini akan menjela
   - Mendokumentasikan kegiatan dalam bentuk gambar/foto/screenshoot.
   - Mengupload gambar ke repository file; untuk contoh di sini, kita menggunakan repository file yang ada di [https://files.bakrie.ac.id/](https://files.bakrie.ac.id/)
   - Mengeset share link gambar yang sudah diupload ke repository file; link gambar pada repo tersebut ada di [https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK](https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK)
+    ![Link sharing](img/Screen%20Shot%202025-09-01%20at%2013.17.11.png)
   
 ## Mengisi Detail Kegiatan
   - Isi dengan teks biasa untuk deskripsi kegiatan
