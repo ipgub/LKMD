@@ -63,3 +63,25 @@ Halaman ini akan menjelaskan ringkasan langkah tahap demi tahap untuk membuat la
     
   ![LKMD02](img/LKMD02.png)
     
+## Template
+
+Template isian item laporan LKMD berbasis web/html agar bisa menggunakan font styles, list, dan gambar:
+
+```html
+<b>NAMA KEGIATAN</b>
+<br>
+<ul>
+  <li> Deskripsi singkat 1
+  <li> Deskripsi singkat 2
+  <li> dst
+</ul>
+<br>
+<b>Dokumentasi
+<br>
+<ol>
+<li>Upload repo UBakrie:<br>
+<img src="https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK/preview" width=500>
+<li>Upload repo lain (Github): <br>
+<img src="https://github.com/username/repo/raw/main/path/filename.jpg" width=500>
+</ol>
+```
