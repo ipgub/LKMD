@@ -1,4 +1,4 @@
-.---
+---
 layout: default
 title: LKMD BIG 2.0
 ---
