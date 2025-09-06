@@ -1,4 +1,4 @@
----
+.---
 layout: default
 title: LKMD BIG 2.0
 ---
@@ -41,6 +41,11 @@ Halaman ini akan menjelaskan ringkasan langkah tahap demi tahap untuk membuat la
 
     * Lokasi URL gambar di repo: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK`
     * Link gambar yang kita masukkan di Detail Kegiatan isian LKMD: `https://files.bakrie.ac.id/s/9kj33C6m5Xd6fYK/preview`
+
+   - Untuk file gambar yang diupload ke folder repository lain seperti github, misalnya, URL gambar yang diupload adalah sebagai berikut:
+   ```html
+   <img src="https://github.com/username/repo/raw/main/path/filename.jpg" width=500>
+   ```
 
 ## Menyimpan
   - Jangan lupa untuk selalu melakukan saving setiap kali melakukan perubahan detail isian LKMD.
